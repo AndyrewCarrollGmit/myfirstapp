@@ -36,7 +36,7 @@ namespace StudentFoodGuide
             textPastaMethod.Text = "\n Method  \n1: Heat a pan with butter or olive oil\n  \n2: Slowly cook the meatballs until they're fully brown  \n  \n3: While the meatballs are cooking begin chopping your vegtables to add to the meatballs \n \n4: Boil hot water for the spaghetti the size of a two euro coin is the right amout per person \n  \n5: A simple trick to know if the spaghetti is cooked is to throw a piece against the wall, if its sticks then your spaghetti is cooked! \n  \n6: Add the bolognese sauce to the pan and slowly stir  ";
 
             // Pizza Recipe
-            textSoup.Text = "Home-Made Toemato Soup";
+            textSoup.Text = "Home-Made Tomato Soup";
             textSoupIngredients.Text = "\n\nIngredients:\n\n One Tablespoon Olive Oil \n 1 chopped Onion \n 1 Celery stick \n Finely sliced garlic \n Tinned tomatoes \n stock cube \n salt & pepper \n  ";
             textSoupMethod.Text = "\n Methods \n 1:Heat the olive oil in a pot and add the chopped onion, celery stick and the garlic \n \n 2: After stirring frequently and beings to soften \n \n3: Add the tinned tomato and stock cube to the pot and stir \n \n4: add the salt & pepper and bring to the boil, stirring occasionsally let it sit for 30/40 minutes before serving";
 
