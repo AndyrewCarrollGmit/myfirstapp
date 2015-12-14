@@ -1,0 +1,2 @@
+MainPackage=C:\Users\super_000\Documents\Visual Studio 2015\Projects\StudentFoodGuide\StudentFoodGuide\bin\x86\Release\StudentFoodGuide_1.1.5.0_x86.appx
+SymbolPackage=C:\Users\super_000\Documents\Visual Studio 2015\Projects\StudentFoodGuide\StudentFoodGuide\AppPackages\StudentFoodGuide_1.1.5.0\StudentFoodGuide_1.1.5.0_x86.appxsym
